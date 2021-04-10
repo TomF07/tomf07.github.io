@@ -1,8 +1,8 @@
 {
   "mods": [
     {
-      "name": "mw-1.7_mc1.7.10.jar",
-      "downloadURL": "https://tomf07.github.io/servermod/modlookub/mw-1.7_mc1.7.10.jar",
+      "name": "lookubmod.jar",
+      "downloadURL": "https://tomf07.github.io/servermod/modlookub/lookubmod.jar",
       "sha1": "89ff2f265bcd7e7a4bd3eb0764d293b6c0f19a3a",
       "size": 8456675
     }
