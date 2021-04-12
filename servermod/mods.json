@@ -2,9 +2,9 @@
   "mods": [
     {
       "name": "lookubmod.jar",
-      "downloadURL": "https://TomF07.github.io/servermod/modlookub/lookubmod.jar",
-      "sha1": "5ff565f598140116e061143ee81647a20d4e8783",
-      "size": 36271
+      "downloadURL": "https://tomf07.github.io/servermod/modlookub/lookubmod.jar",
+      "sha1": "4808419f9ebb0735f341c8b10aeb409359b0f6d2",
+      "size": 69394
     }
   ]
 }
