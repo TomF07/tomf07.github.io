@@ -1,7 +1,7 @@
 {
   "extfiles": [
     {
-      "path": "mainmenu.json",
+      "path": "config/mainmenu.json",
       "downloadURL": "https://tomf07.github.io/config/CustomMainMenu/mainmenu.json",
       "sha1": "86702f711a88c331aecb21d9d4d0be66446a14f4",
       "size": 3704
