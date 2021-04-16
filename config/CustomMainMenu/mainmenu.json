@@ -38,7 +38,7 @@
             "action" : 
             {
                 "type" : "connectToServer",
-                "ip" : "proxy.paladium-pvp.fr"
+                "ip" : "play.vipermc.net:25565"
             }
         },
         
