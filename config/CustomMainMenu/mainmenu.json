@@ -38,7 +38,7 @@
             "action" : 
             {
                 "type" : "connectToServer",
-                "ip" : "hypixel.net"
+                "ip" : "proxy.paladium-pvp.fr"
             }
         },
         
