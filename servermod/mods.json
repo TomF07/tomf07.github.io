@@ -6,12 +6,6 @@
       "sha1": "D32D62D29B9CD18B9F719C7A005F12C172244061",
       "size": 1377477
     },
-    {
-      "name": "CustomMainMenu-MC1.7.10-1.9.2.jar",
-      "downloadURL": "https://tomf07.github.io/servermod/modmenu/CustomMainMenu-MC1.7.10-1.9.2.jar",
-      "sha1": "cc96e2d4796ecc58e8da920652b4ed40df6385f9",
-      "size": 224742
-    },
 	{
       "name": "CustomNPCs_1.7.10d-29oct17.jar",
       "downloadURL": "https://tomf07.github.io/servermod/customnpc/CustomNPCs_1.7.10d-29oct17.jar",
