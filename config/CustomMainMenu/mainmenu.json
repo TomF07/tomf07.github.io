@@ -16,16 +16,15 @@
     {
         "singleplayer":
         {
-            "text" : "",
-            "texture" : "custommainmenu:textures/gui/transparent.png",
-            "posX" : -9000000000000000,
-            "posY" : 0,
-            "width" : 1,
-            "height" : 1,
+            "text" : "Discord",
+            "posX" : -100,
+            "posY" : 100,
+            "width" : 200,
+            "height" : 20,
             "action" : 
             {
-                "type" : "",
-                "gui" : ""
+                "type" : "openLink",
+                "link" : "https://discord.gg/8abeMXaSnb"
             }
         },
         
@@ -88,7 +87,7 @@
         "language":
         {
             "text" : "",
-            "posX" : -124,
+            "posX" : -124000,
             "posY" : 132,
             "width" : 20,
             "height" : 20,
@@ -102,11 +101,11 @@
         "refresh":
         {
             "text" : "",
-            "posX" : -154,
+            "posX" : -15400000,
             "posY" : 132,
             "width" : 20,
             "height" : 20,
-            "texture" : "custommainmenu:textures/gui/transparent.png",
+            "texture" : "custommainmenu:textures/gui/aaa.png",
             "action" : 
             {
                 "type" : "refresh"
@@ -128,7 +127,7 @@
         "fml":
         {
             "text" : "",
-            "posX" : 2,
+            "posX" : -200000,
             "posY" : -50,
             "color" : -1,
             "alignment" : "bottom_left"
@@ -139,17 +138,17 @@
     {
         "splash-text":
         {
-            "posX" : 90,
+            "posX" : 9,
             "posY" : 70,
             "color" : -256,
             "alignment" : "top_center",
-            "texts" : "file:minecraft:texts/splashes.txt"
+            "texts" : ""
         },
         
         "panorama":
         {
-            "images" : "minecraft:textures/gui/title/background/panorama_%c.png",
-            "animate" : true,
+            "images" : "custommainmenu:textures/gui/backgroundlauncher.jpg",
+            "animate" : false,
             "animationSpeed" : 1,
             "blur" : true,
             "gradient" : true
