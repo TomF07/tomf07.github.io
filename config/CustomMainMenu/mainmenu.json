@@ -38,7 +38,7 @@
             "action" : 
             {
                 "type" : "connectToServer",
-                "ip" : "play.vipermc.net:25565"
+                "ip" : "play.lookub.tk"
             }
         },
         
