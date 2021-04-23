@@ -1,0 +1,10 @@
+{
+  "mods": [
+    {
+      "name": "lookubmod.jar",
+      "downloadURL": "https://servermod/modlookub/lookubmod.jar",
+      "sha1": "a5dbca261ed8f7162cecf3d7d4d04ee92623b399",
+      "size": 1378056
+    }
+  ]
+}
