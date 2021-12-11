@@ -2,19 +2,19 @@
   "mods": [
     {
       "name": "CodeChickenCore-1.7.10-1.0.7.48-universal.jar",
-      "downloadURL": "https://tomf07.github.io/mods/CodeChickenCore-1.7.10-1.0.7.48-universal.jar",
+      "downloadURL": "https://tomf07.github.io/servermod/code/CodeChickenCore-1.7.10-1.0.7.48-universal.jar",
       "sha1": "42340568aa6c7d6a9333e30540d4a9803d262f5d",
       "size": 143985
     },
     {
       "name": "NotEnoughItems-1.7.10-1.0.5.120-universal.jar",
-      "downloadURL": "https://tomf07.github.io/mods/NotEnoughItems-1.7.10-1.0.5.120-universal.jar",
+      "downloadURL": "https://tomf07.github.io/servermod/code/NotEnoughItems-1.7.10-1.0.5.120-universal.jar",
       "sha1": "a7587d48f19b6e9e8791c0e3d2e9aca3b36882c7",
       "size": 513136
     },
     {
       "name": "lookubmod.jar",
-      "downloadURL": "https://tomf07.github.io/mods/lookubmod.jar",
+      "downloadURL": "https://tomf07.github.io/servermod/code/lookubmod.jar",
       "sha1": "f5ab3e4d75e214384e71d18b34e11a3782843286",
       "size": 1380322
     }
