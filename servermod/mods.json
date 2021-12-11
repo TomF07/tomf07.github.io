@@ -29,6 +29,18 @@
       "downloadURL": "https://tomf07.github.io/servermod/carp/carpen.jar",
       "sha1": "a237288349d19459fdd99e8cc1df10ddc3f2ffc0",
       "size": 515159
+    },
+    {
+      "name": "Chisel-2.9.4.10.jar",
+      "downloadURL": "https://tomf07.github.io/servermod/chisel/Chisel-2.9.4.10.jar",
+      "sha1": "aa3d337895db5d737b35005c9af305b066aebebd",
+      "size": 6377439
+    },
+    {
+      "name": "ironchest-1.7.10-6.0.62.742-universal.jar",
+      "downloadURL": "https://tomf07.github.io/mods/ironchest-1.7.10-6.0.62.742-universal.jar",
+      "sha1": "2888052ca2727a875ac13fa266e74b53e90cfab4",
+      "size": 158104
     }
   ]
 }
