@@ -23,6 +23,12 @@
       "downloadURL": "https://tomf07.github.io/servermod/storage/StorageDrawers-1.7.10-1.10.6.jar",
       "sha1": "2a8c6d61102ec7ebefd681fa43451876eef55496",
       "size": 589327
+    },
+    {
+      "name": "carpen.jar",
+      "downloadURL": "https://tomf07.github.io/servermod/carp/carpen.jar",
+      "sha1": "a237288349d19459fdd99e8cc1df10ddc3f2ffc0",
+      "size": 515159
     }
   ]
 }
