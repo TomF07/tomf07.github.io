@@ -17,6 +17,12 @@
       "downloadURL": "https://tomf07.github.io/servermod/modlookub/lookubmod.jar",
       "sha1": "f5ab3e4d75e214384e71d18b34e11a3782843286",
       "size": 1380322
+    },
+    {
+      "name": "StorageDrawers-1.7.10-1.10.6.jar",
+      "downloadURL": "https://tomf07.github.io/servermod/storage/StorageDrawers-1.7.10-1.10.6.jar",
+      "sha1": "2a8c6d61102ec7ebefd681fa43451876eef55496",
+      "size": 589327
     }
   ]
 }
