@@ -1,16 +1,22 @@
 {
   "mods": [
     {
-      "name": "lookubmod.jar",
-      "downloadURL": "https://tomf07.github.io/servermod/modlookub/lookubmod.jar",
-      "sha1": "F5AB3E4D75E214384E71D18B34E11A3782843286",
-      "size": 1380322 
+      "name": "CodeChickenCore-1.7.10-1.0.7.48-universal.jar",
+      "downloadURL": "https://tomf07.github.io/mods/CodeChickenCore-1.7.10-1.0.7.48-universal.jar",
+      "sha1": "42340568aa6c7d6a9333e30540d4a9803d262f5d",
+      "size": 143985
     },
-	  {
-      "name": "CustomNPCs_1.7.10d-29oct17.jar",
-      "downloadURL": "https://tomf07.github.io/servermod/customnpc/CustomNPCs_1.7.10d-29oct17.jar",
-      "sha1": "2D75096F72BDA3E95DD69E94D6C79787DA11B78A",
-      "size": 9007920
+    {
+      "name": "NotEnoughItems-1.7.10-1.0.5.120-universal.jar",
+      "downloadURL": "https://tomf07.github.io/mods/NotEnoughItems-1.7.10-1.0.5.120-universal.jar",
+      "sha1": "a7587d48f19b6e9e8791c0e3d2e9aca3b36882c7",
+      "size": 513136
+    },
+    {
+      "name": "lookubmod.jar",
+      "downloadURL": "https://tomf07.github.io/mods/lookubmod.jar",
+      "sha1": "f5ab3e4d75e214384e71d18b34e11a3782843286",
+      "size": 1380322
     }
   ]
 }
